@@ -1,10 +1,11 @@
 import React from 'react'
+import Task1 from './components/Task1'
 
 function App() {
   return (
-    <div>
-      <h1>hii</h1>
-    </div>
+    <>
+    <Task1/>
+    </>
   )
 }
 
